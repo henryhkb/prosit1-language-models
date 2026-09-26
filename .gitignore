@@ -1,0 +1,11 @@
+# Virtual environment (each person creates their own)
+.venv/
+
+# Jupyter autosave files
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Personal AI-assistant instructions (not part of the project)
+CLAUDE.md
